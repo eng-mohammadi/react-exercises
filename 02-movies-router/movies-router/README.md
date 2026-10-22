@@ -36,7 +36,7 @@ This is **Exercise 2 of 6** in my React course exercises. The goal of the exerci
 ## 🗂️ Project structure
 
 ```
-02-movies-router/
+movies-router/
 ├── public/
 │   ├── data.json            # movies data
 │   ├── images/movies/       # movie posters used by data.json
@@ -61,7 +61,7 @@ Movie posters live in `public/images/movies` because they are referenced by path
 ## 🚀 Getting started
 
 ```bash
-cd 02-movies-router
+cd 02-movies-router/movies-router
 npm install
 npm start
 ```

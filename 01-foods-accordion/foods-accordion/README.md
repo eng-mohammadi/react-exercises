@@ -50,6 +50,9 @@ A collapsible **accordion** that reveals a gallery of **food cards**, each with 
 ## 🚀 Getting started
 
 ```bash
+# go to the project folder
+cd 01-foods-accordion/foods-accordion
+
 # install dependencies
 npm install
 
