@@ -67,4 +67,4 @@ See each exercise's README for details.
 
 The last exercise of the course is a complete **hotel booking application**: a dynamic app that talks to a server set up with json-server. It is bigger than the small exercises above, so it has its own repository:
 
-👉 **[Hotel Booking App](https://github.com/eng-mohammadi/REPLACE-WITH-HOTEL-REPO-NAME)**
+👉 **[Hotel Booking App](https://github.com/eng-mohammadi/hotel-reservation-react-app)**
