@@ -2,7 +2,7 @@
 
 A university management app with pages for **students**, **professors**, **courses** and **unit selection**. The data lives on a fake REST API (**json-server**) and is managed on the client with **Redux Toolkit** and **RTK Query**.
 
-This is **Exercise 4 of 6** in my React course exercises. The goal was to practice global data fetching and caching with RTK Query, routing, and building CRUD forms.
+This is **Exercise 4** in my React course exercises. The goal was to practice global data fetching and caching with RTK Query, routing, and building CRUD forms.
 
 ## ✨ Features
 

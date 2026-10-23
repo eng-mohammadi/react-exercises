@@ -2,7 +2,7 @@
 
 A small multi-page movie site built with **React**, **React Router**, **axios**, **styled-components** and **SCSS**.
 
-This is **Exercise 2 of 6** in my React course exercises. The goal of the exercise was to practice client-side routing and loading data from a JSON file, using class components (the approach taught at this stage of the course).
+This is **Exercise 2** in my React course exercises. The goal of the exercise was to practice client-side routing and loading data from a JSON file, using class components (the approach taught at this stage of the course).
 
 ## ✨ Features
 

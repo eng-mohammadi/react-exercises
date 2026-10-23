@@ -2,7 +2,7 @@
 
 A seat reservation app built with **React hooks**: `useReducer`, `useContext` and `useEffect`.
 
-This is **Exercise 3 of 6** in my React course exercises. The goal was to practice managing shared state with a reducer and the Context API, and to load data from a JSON file with axios.
+This is **Exercise 3** in my React course exercises. The goal was to practice managing shared state with a reducer and the Context API, and to load data from a JSON file with axios.
 
 ## ✨ Features
 
