@@ -4,3 +4,6 @@ build/
 .env*
 .DS_Store
 Thumbs.db
+# compiled Sass output
+**/src/styles/*.css
+**/src/styles/*.css.map
